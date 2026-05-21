@@ -3,7 +3,7 @@ package org;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Bai5{
+public class Bai3 {
     public static void selectionSort(int[] arr, int n){
         for(int i = 0; i < arr.length; i++){
             int minIndex = i;
